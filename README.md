@@ -10,5 +10,5 @@ The files above may give you all the things that you need to reproduce this proj
     <img src="/imgs/prototype.png" alt="image of the assembled circuit.">
     <figcaption>Image of the assembled circuit.</figcaption>
 </figure>
-
+<hr>
 If you have any comments or ideas about this, you could contact me.
