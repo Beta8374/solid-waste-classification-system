@@ -7,7 +7,7 @@ The classification model was created entirely in Edge Impulse Studio. You can ch
 The files above may give you all the things that you need to reproduce this project, but, just in case, i use Arduino IDE (2.3.7), Adafruit_SSD1306 (v. 2.5.16) and Adafruit_GFX (v. 1.12.4). 
 
 <figure>
-    <img src="/imgs/prototype.png" alt="image of the assembled circuit.">
+    <img src="/imgs/prototype.png" alt="image of the assembled circuit." width="200" height="100">
     <figcaption>Image of the assembled circuit.</figcaption>
 </figure>
 <hr>
