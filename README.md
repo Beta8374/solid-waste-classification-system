@@ -18,10 +18,10 @@ This model could classify
 > [!IMPORTANT]
 > I didn't use the ESP32's built-in light; I recommend a powerful external light source on the object. Poor lighting and object positioning can affect the result.
 
-# OBS
+# Important notes
 
 > [!WARNING]
-> Make sure the FTDI module jumper is set to 5V.
+> - Make sure the FTDI module jumper is set to 5V.
 > - Make sure you are using a good quality cable to power the circuit.
 > - BROWNOUT DETECTION: To resolve this, I used my computer's USB 3.2 Gen 1 port. This may be related to a power surge during startup; the required amperage may be slightly higher than usual.
 
