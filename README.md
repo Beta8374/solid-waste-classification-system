@@ -2,7 +2,7 @@
 
 <p>This project was my final project to obtain my bachelor's degree in CS.</p>
 
-<p>The classification model was created entirely in Edge Impulse Studio. You can check out the project [here](https://studio.edgeimpulse.com/studio/847334) or in the description. I just made a few changes to the code, and now the result is displayed on the OLED monitor and LED. </p>
+The classification model was created entirely in Edge Impulse Studio. You can check out the project [here](https://studio.edgeimpulse.com/studio/847334) or in the description. I just made a few changes to the code, and now the result is displayed on the OLED monitor and LED.
 
 <p>This is a prototype embedded system for identifying solid waste using a Convolutional Neural Network (CNN), capable of classifying waste into four classes: metal, plastic, paper, and glass. The overall accuracy is 85.7% and the F1 score is 0.86 in the quantized model. The estimated latency is around 3089 ms. </p>
 
