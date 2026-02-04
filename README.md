@@ -27,6 +27,7 @@ When you place an object in front of the camera, the model identifies the object
     <figcaption>System implementation diagram</figcaption>
 </figure>
 
+<br>
 Some of the limitations of this project are that the inference time is high and there is no filter to discern the background and save resources.
 
 > [!IMPORTANT]
