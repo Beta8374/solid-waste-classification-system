@@ -10,7 +10,6 @@
 
 <figure>
     <img src="/imgs/prototype.png" alt="image of the assembled circuit." width="600" style="display: block; margin: 0 auto;">
-    <figcaption>Image of the assembled circuit.</figcaption>
 </figure>
 
 <figure>
@@ -23,7 +22,6 @@
 
 <figure>
     <img src="/imgs/execution process.png" alt="System implementation diagram" width="600" style="display: block; margin: 0 auto;">
-    <figcaption>System implementation diagram</figcaption>
 </figure>
 
 ## Results 
@@ -57,4 +55,4 @@
 
 <hr>
 
-<p>If you have any comments or ideas about this, you could contact me.</p>
+<p>If you have any comments or ideas about this, contact me.</p>
