@@ -18,7 +18,7 @@ The files above may give you all the things that you need to reproduce this proj
     <figcaption>Image of the assembled circuit.</figcaption>
 </figure>
 
-## What the algoritm do
+## What the algorithm do
 
 When you place an object in front of the camera, the model identifies the object and returns only one classification within the four possible classes. This process is repeated continuously, and a new result appears every three seconds. The system execution flow is shown in the image below. 
 
