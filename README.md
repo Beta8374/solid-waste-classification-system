@@ -10,5 +10,23 @@ The files above may give you all the things that you need to reproduce this proj
     <img src="/imgs/prototype.png" alt="image of the assembled circuit." width="600" height="500">
     <figcaption>Image of the assembled circuit.</figcaption>
 </figure>
+
+## What the algoritm do
+
+This model could classify 
+
+[!IMPORTANT]
+> I didn't use the ESP32's built-in light; I recommend a powerful external light source on the object. Poor lighting and object positioning can affect the result.
+
+# OBS
+
+[!WARNING]
+> Make sure the FTDI module jumper is set to 5V.
+> Make sure you are using a good quality cable to power the circuit. 
+
+
+[!CAUTION]
+> This is just a guide; I don't recommend doing this if you don't know what you're doing. I am not responsible for any equipment damage.
+
 <hr>
 If you have any comments or ideas about this, you could contact me.
