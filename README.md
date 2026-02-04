@@ -14,7 +14,7 @@
 </figure>
 
 <figure>
-    <img src="/imgs/cirtuit image.png" alt="circuit image." width="600" style="display: block; margin: 0 auto;">
+    <img src="/imgs/circuit image.png" alt="circuit image" width="600" style="display: block; margin: 0 auto;">
 </figure>
 
 ## What the algorithm do
@@ -30,7 +30,6 @@
 
 <figure>
     <img src="/imgs/confusion matrix.png" alt="Confusion matrix of the project with all classes" width="600" style="display: block; margin: 0 auto;">
-    <figcaption style="text-align: center;">Confusion matrix of the project with all classes</figcaption>
 </figure>
 
 <figure>
