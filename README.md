@@ -41,21 +41,21 @@
     <img src="/imgs/incorrect.png" alt="Incorrect classifications" width="600" style="display: block; margin: 0 auto;">
 </figure>
 
+# Important notes
+
 > [!IMPORTANT]
 > - I didn't use the ESP32's built-in light; I recommend a powerful external light source on the object. Poor lighting and object positioning can affect the result.
-> - **Object deteccition** is different from **classification algorithms**.
+> - **Object detection** is different from **classification algorithms**.
 > - Some of the limitations of this project are that the inference time is high and there is no filter to discern the background and save resources.
-
-# Important notes
 
 > [!WARNING]
 > - Make sure the FTDI module jumper is set to 5V.
 > - Make sure you are using a good quality cable to power the circuit.
 > - **BROWNOUT DETECTION**: To resolve this, I used my computer's USB 3.2 Gen 1 port. This may be related to a power surge during startup, the required amperage may be slightly higher than usual.
 
-
 > [!CAUTION]
 > This is just a guide; I don't recommend doing this if you don't know what you're doing. I am not responsible for any equipment damage.
 
 <hr>
+
 <p>If you have any comments or ideas about this, you could contact me.</p>
