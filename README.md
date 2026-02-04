@@ -15,17 +15,17 @@ The files above may give you all the things that you need to reproduce this proj
 
 This model could classify 
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > I didn't use the ESP32's built-in light; I recommend a powerful external light source on the object. Poor lighting and object positioning can affect the result.
 
 # OBS
 
-[!WARNING]
+> [!WARNING]
 > Make sure the FTDI module jumper is set to 5V.
 > Make sure you are using a good quality cable to power the circuit. 
 
 
-[!CAUTION]
+> [!CAUTION]
 > This is just a guide; I don't recommend doing this if you don't know what you're doing. I am not responsible for any equipment damage.
 
 <hr>
